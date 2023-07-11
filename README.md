@@ -49,3 +49,8 @@ Please note that new applications may not be accepted unless they are extremely 
 
 Turbox operates with a "handler". The handler, listed as the "handler" sprite in the essentials folder in the source code, handles all filesystem changes and major operations. It processes operations in the form of "jobs", and any application can send a job to the handler by adding it to the `handlerJOBS` list. Jobs are formatted as commands, for example:
 
+`set [filename or variable] [data]`
+`del [filename or variable]`
+
+
+Files are represented as variables. Currently, all files are stored in one root directory, and a proper filesystem will be introduced in a later version of Turbox.
