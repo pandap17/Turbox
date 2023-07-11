@@ -39,7 +39,7 @@ Turbox has a package system to install third-party programs, tools, or applicati
 
 Turbox was created by PandaP17 and is maintained by PandaP17, but anyone can contribute to the source code. To contribute, follow these steps:
 
-1. Clone the Turbox repository: `git clone https://github.com/your-username/turbox.git`
+1. Clone the Turbox repository: `git clone https://github.com/pandap17/turbox`
 2. Make modifications or improvements to the source code using TurboWarp.
 3. Submit a pull request on GitHub with the modified SB3 file, detailing your exact improvements/changes.
 
